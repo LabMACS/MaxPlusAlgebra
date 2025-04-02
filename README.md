@@ -9,7 +9,7 @@ Numerical example for the Robust Feedback System Synchronization Problem for max
 
 ## Abstract
 
-This illustrative example, written for ScicosLab, supports the theoretical results proposed in the paper "Robust Synchronization Problems for Max-plus Linear Systems with Polytopic Uncertainties".
+This illustrative example, written for ScicosLab, supports the theoretical results proposed in the paper "Robust Synchronization Problems for Max-plus Linear Systems with Polytopic Uncertainties", by D. Scaradozzi, V. Bartolucci, A. M. Perdon, G. Conte, and E. Zattoni.
 
 The paper addresses the problems of robust system synchronization for max-plus linear systems with polytopic uncertainties in all system matrices. Uncertainties in discrete event systems can arise from variations in timing constraints or processing delays. 
 The work provides a methodology to tackle these problems by leveraging a geometric approach for the max-plus algebra. 
