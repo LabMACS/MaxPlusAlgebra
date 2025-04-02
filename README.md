@@ -15,7 +15,7 @@ The paper addresses the problems of robust system synchronization for max-plus l
 The work provides a methodology to tackle these problems by leveraging a geometric approach for the max-plus algebra. 
 These problems aim to design a control law that ensures that the system behaves like a reference model, forcing the system's output to equal the model's output.
 
-## Funding
+### Funding
 The work was supported by the project "MAXFISH: Multi agents systems and max-plus algebra theoretical frameworks for a robot-fish shoal modelling and control" 20225RYMJE, funded by MUR Progetti di Ricerca di Rilevante Interesse Nazionale (PRIN) Bando 2022.
 
 
