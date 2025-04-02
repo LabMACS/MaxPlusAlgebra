@@ -1,6 +1,6 @@
 # MaxPlusPolytopic_RFSSP
 
-Numerical example for the Robust System Synchronization Problem for max-plus linear systems with polytopic uncertainties.
+Numerical example for the Robust Feedback System Synchronization Problem for max-plus linear systems with polytopic uncertainties.
 
 <div align="left">
   <img src="images/Extended_Logo.png" alt="Logo LabMACS" height="100" style="margin-right: 10px;" />
