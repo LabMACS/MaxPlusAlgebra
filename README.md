@@ -2,14 +2,21 @@
 
 Numerical example for the Robust System Synchronization Problem for max-plus linear systems with polytopic uncertainties.
 
-# Abstract
+<div align="left">
+  <img src="images/Extended_Logo.png" alt="Logo LabMACS" height="100" style="margin-right: 10px;" />
+  <img src="images/Logo.png" alt="Logo MAXFISH" height="100" />
+</div>
 
-This illustrative example, written for ScicosLab, supports the theoretical results proposed in the paper "Robust Synchronization Problems for \mbox{Max-plus} Linear Systems with Polytopic Uncertainties".
-The paper addresses the problems of robust system synchronization for \mbox{max-plus} linear systems with polytopic uncertainties in all system matrices. Uncertainties in discrete event systems can arise from variations in timing constraints or processing delays. This work provides a methodology to tackle these problems by leveraging a geometric approach for the max-plus algebra. 
+## Abstract
+
+This illustrative example, written for ScicosLab, supports the theoretical results proposed in the paper "Robust Synchronization Problems for Max-plus Linear Systems with Polytopic Uncertainties".
+
+The paper addresses the problems of robust system synchronization for max-plus linear systems with polytopic uncertainties in all system matrices. Uncertainties in discrete event systems can arise from variations in timing constraints or processing delays. 
+The work provides a methodology to tackle these problems by leveraging a geometric approach for the max-plus algebra. 
 These problems aim to design a control law that ensures that the system behaves like a reference model, forcing the system's output to equal the model's output.
 
-# Funding
-The work was supported by the project "MAXFISH: Multi agents systems and \mbox{max-plus} algebra theoretical frameworks for a \mbox{robot-fish} shoal modelling and control" 20225RYMJE, funded by MUR Progetti di Ricerca di Rilevante Interesse Nazionale (PRIN) Bando 2022.
+## Funding
+The work was supported by the project "MAXFISH: Multi agents systems and max-plus algebra theoretical frameworks for a robot-fish shoal modelling and control" 20225RYMJE, funded by MUR Progetti di Ricerca di Rilevante Interesse Nazionale (PRIN) Bando 2022.
 
 
 ### License <a name="license"></a>
@@ -27,7 +34,8 @@ This work is licensed under a
 To acknowledge the material, the following information must be reported:
 * Attribution: MAXFISH PRIN project (20225RYMJE)
              <[https://www.maxfish.it/](https://www.maxfish.it/)> 
-* Title of the Work: “MAXFISH RFSSP”
-* * License information: CC BY-NC-SA 4.0
+* Title of the Work: MAXFISH RFSSP
+* Source: <[https://github.com/LabMACS/MaxPlusPolytopic_RFSSP](https://github.com/LabMACS/MaxPlusPolytopic_RFSSP)>
+* License information: CC BY-NC-SA 4.0
 
-The “MAXFISH RFSSP” is free available.
+The MAXFISH RFSSP is free available.
